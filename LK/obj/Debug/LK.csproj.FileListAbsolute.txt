@@ -1,0 +1,8 @@
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\bin\LK.dll.config
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\bin\LK.dll
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\bin\LK.pdb
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\obj\Debug\LK.dll
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\obj\Debug\LK.pdb
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\obj\Debug\LK.csprojResolveAssemblyReference.cache
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\obj\Debug\RdlCompile.cache
+C:\Users\ncode896\Documents\Лабораторные работы\_3kurs\bd_1\programming\LK\LK\obj\Debug\RdlCompile.compiled
