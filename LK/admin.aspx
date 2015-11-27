@@ -79,6 +79,8 @@
 
         <div class="row">
         <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Выйти из режима администратора</asp:LinkButton>
+            <br />
+            <asp:Label ID="Label2" runat="server" Text="GitNew"></asp:Label>
         </div>
     </div>
     </form>
